@@ -10,7 +10,7 @@ Uz Dockera uzlikšu Moodle sistēmu, izveidošu Ham veltītu kursu, importēšu 
 curl -sSL https://raw.githubusercontent.com/bitnami/containers/main/bitnami/moodle/docker-compose.yml > docker-compose.yml
 docker-compose up -d
 ```
-Tālāk ielogoties ar defaulto username: user un password: bitnami
+Tālāk ielogoties ar defaulto `username: user` un `password: bitnami`
 
 Un tālāk jau Moodles darbs.
 
